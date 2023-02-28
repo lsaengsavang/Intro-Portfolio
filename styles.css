@@ -9,3 +9,8 @@ h1 {
 .header {
   text-align: center;
 }
+
+.pepper-pic {
+  height: 250px;
+  border-radius: 20px;
+}
